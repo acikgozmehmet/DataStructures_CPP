@@ -1,0 +1,1531 @@
+Doing my homework!
+
+---------------------------------------------------------
+DAY: 0
+
+Processing task 4... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        4                                             <<       
+5    13        5                                            
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 1
+
+Processing task 4... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        3                                             <<       
+5    13        5                                            
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 2
+
+Processing task 4... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        2                                             <<       
+5    13        5                                            
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 3
+
+Processing task 4... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        1                                             <<       
+5    13        5                                            
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 4
+
+Processing task 4... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        5                                             <<       
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 5
+
+Processing task 5... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        4                                             <<       
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 6
+
+Processing task 5... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        3                                             <<       
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 7
+
+Processing task 5... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        2                                             <<       
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 8
+
+Processing task 5... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        1                                             <<       
+6    15        5                                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 9
+
+Processing task 5... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        5                                             <<       
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 10
+
+Processing task 6... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        4                                             <<       
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 11
+
+Processing task 6... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        3                                             <<       
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 12
+
+Processing task 6... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        2                                             <<       
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 13
+
+Processing task 6... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        1                                             <<       
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 14
+
+Processing task 6... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        7                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 15
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        6                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 16
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        5                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 17
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        4                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 18
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        3                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 19
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        2                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 20
+
+Processing task 3... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        1                                             <<       
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                            
+
+
+---------------------------------------------------------
+DAY: 21
+
+Processing task 3... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        9                                             <<       
+
+
+---------------------------------------------------------
+DAY: 22
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        8                                             <<       
+
+
+---------------------------------------------------------
+DAY: 23
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        7                                             <<       
+
+
+---------------------------------------------------------
+DAY: 24
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        6                                             <<       
+
+
+---------------------------------------------------------
+DAY: 25
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        5                                             <<       
+
+
+---------------------------------------------------------
+DAY: 26
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        4                                             <<       
+
+
+---------------------------------------------------------
+DAY: 27
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        3                                             <<       
+
+
+---------------------------------------------------------
+DAY: 28
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        2                                             <<       
+
+
+---------------------------------------------------------
+DAY: 29
+
+Processing task 9... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                           
+9    29        1                                             <<       
+
+
+---------------------------------------------------------
+DAY: 30
+
+Processing task 9... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        13                                            <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 31
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        12                                            <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 32
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                           
+1    36        10                                           
+2    32        8                                            
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                           
+8    31        11                                 overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 33
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                           
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        10                                 overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 34
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                           
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        9                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 35
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                           
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        8                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 36
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                           
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        7                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 37
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        6                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 38
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        5                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 39
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        4                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 40
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        3                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 41
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        2                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 42
+
+Processing task 8... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        1                                  overdue    <<       
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 43
+
+Processing task 8... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        12                                 overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 44
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        11                                 overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 45
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        10                                 overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 46
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        9                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 47
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        8                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 48
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        7                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 49
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        6                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 50
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        5                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 51
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        4                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 52
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        3                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 53
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        2                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 54
+
+Processing task 0... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        1                                  overdue    <<       
+1    36        10                                 overdue   
+2    32        8                                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 55
+
+Processing task 0... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        8                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 56
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        7                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 57
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        6                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 58
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        5                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 59
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        4                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 60
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        3                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 61
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        2                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 62
+
+Processing task 2... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        1                                  overdue    <<       
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 63
+
+Processing task 2... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        11                                 overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 64
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        10                                 overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 65
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        9                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 66
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        8                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 67
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        7                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 68
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        6                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 69
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        5                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 70
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        4                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 71
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        3                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 72
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        2                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 73
+
+Processing task 7... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue   
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        1                                  overdue    <<       
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 74
+
+Processing task 7... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        10                                 overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 75
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        9                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 76
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        8                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 77
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        7                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 78
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        6                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 79
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        5                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 80
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        4                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 81
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        3                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 82
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        2                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 83
+
+Processing task 1... 
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        1                                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+
+
+---------------------------------------------------------
+DAY: 84
+
+Processing task 1... done!
+
+ID   DUE ON    REMAINING      FINISHED DAY        OVERDUE   
+0    32        0              55                  overdue   
+1    36        0              84                  overdue    <<       
+2    32        0              63                  overdue   
+3    26        0              21                            
+4    11        0              4                             
+5    13        0              9                             
+6    15        0              14                            
+7    32        0              74                  overdue   
+8    31        0              43                  overdue   
+9    29        0              30                            
+

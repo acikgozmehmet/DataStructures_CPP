@@ -1,0 +1,600 @@
+CAR_BEGIN
+renault
+infinite humboldt-penguin
+30473.87
+CAR_END
+
+CAR_BEGIN
+porsche
+puzzling pekingese
+76201.60
+CAR_END
+
+CAR_BEGIN
+lotus
+quiet barn-owl
+45460.40
+CAR_END
+
+CAR_BEGIN
+toyota
+wide collared-peccary
+37308.20
+CAR_END
+
+CAR_BEGIN
+mitsubishi
+cultivated flying-squirrel
+72644.53
+CAR_END
+
+CAR_BEGIN
+rolls-royce
+prickly river-dolphin
+52277.58
+CAR_END
+
+CAR_BEGIN
+mg
+zany scorpion-fish
+79599.7
+CAR_END
+
+CAR_BEGIN
+citroen
+anguished vampire-bat
+15570.56
+CAR_END
+
+CAR_BEGIN
+porsche
+firm butterfly-fish
+55307.82
+CAR_END
+
+CAR_BEGIN
+aston-martin
+crazy komodo-dragon
+99655.28
+CAR_END
+
+CAR_BEGIN
+smart
+far-flung bavarian-mountain-hound
+22663.90
+CAR_END
+
+CAR_BEGIN
+alfa-romeo
+capital pademelon
+11812.80
+CAR_END
+
+CAR_BEGIN
+mg
+mortified crested-penguin
+71657.91
+CAR_END
+
+CAR_BEGIN
+mg
+putrid irish-setter
+16129.35
+CAR_END
+
+CAR_BEGIN
+alfa-romeo
+multicolored sea-slug
+8916.22
+CAR_END
+
+CAR_BEGIN
+suzuki
+menacing mayfly
+56881.54
+CAR_END
+
+CAR_BEGIN
+mazda
+well-documented elephant
+5602.85
+CAR_END
+
+CAR_BEGIN
+audi
+annual eastern-lowland-gorilla
+74271.42
+CAR_END
+
+CAR_BEGIN
+bentley
+misguided ibis
+31750.88
+CAR_END
+
+CAR_BEGIN
+mg
+secondary ladybird
+5727.84
+CAR_END
+
+CAR_BEGIN
+mini
+frightening norfolk-terrier
+20140.36
+CAR_END
+
+CAR_BEGIN
+alfa-romeo
+required dugong
+80946.17
+CAR_END
+
+CAR_BEGIN
+lamborghini
+calculating dunker
+94218.70
+CAR_END
+
+CAR_BEGIN
+ssangyong
+back kangaroo
+57924.36
+CAR_END
+
+CAR_BEGIN
+honda
+sleepy pygmy-marmoset
+68120.91
+CAR_END
+
+CAR_BEGIN
+ssangyong
+insubstantial alpine-dachsbracke
+43571.54
+CAR_END
+
+CAR_BEGIN
+kia
+crooked leopard
+46310.58
+CAR_END
+
+CAR_BEGIN
+tesla
+entire dragonfly
+79981.59
+CAR_END
+
+CAR_BEGIN
+hyundai
+spotless siamese
+6411.94
+CAR_END
+
+CAR_BEGIN
+tesla
+glorious ant
+80870.99
+CAR_END
+
+CAR_BEGIN
+land-rover
+educated western-lowland-gorilla
+2679.27
+CAR_END
+
+CAR_BEGIN
+tesla
+perfumed bluetick-coonhound
+97969.84
+CAR_END
+
+CAR_BEGIN
+alpina
+growling russian-blue
+73942.98
+CAR_END
+
+CAR_BEGIN
+suzuki
+palatable water-dragon
+78825.13
+CAR_END
+
+CAR_BEGIN
+bentley
+wicked mongrel
+10139.6
+CAR_END
+
+CAR_BEGIN
+honda
+steep lobster
+90881.62
+CAR_END
+
+CAR_BEGIN
+peugeot
+single echidna
+99933.82
+CAR_END
+
+CAR_BEGIN
+honda
+circular horseshoe-crab
+63945.46
+CAR_END
+
+CAR_BEGIN
+nissan
+lean leopard-cat
+65009.65
+CAR_END
+
+CAR_BEGIN
+subaru
+another emperor-penguin
+96757.68
+CAR_END
+
+CAR_BEGIN
+land-rover
+kooky zorse
+43105.4
+CAR_END
+
+CAR_BEGIN
+mercedes
+ignorant macaw
+35607.35
+CAR_END
+
+CAR_BEGIN
+lexus
+lovely asiatic-black-bear
+72979.39
+CAR_END
+
+CAR_BEGIN
+alpina
+worst australian-mist
+29087.67
+CAR_END
+
+CAR_BEGIN
+porsche
+threadbare fur-seal
+99615.20
+CAR_END
+
+CAR_BEGIN
+suzuki
+cultivated pied-tamarin
+38938.16
+CAR_END
+
+CAR_BEGIN
+bentley
+hideous whale-shark
+31506.50
+CAR_END
+
+CAR_BEGIN
+ferrari
+attached fox
+99760.53
+CAR_END
+
+CAR_BEGIN
+bentley
+murky geoffroys-tamarin
+63776.12
+CAR_END
+
+CAR_BEGIN
+volkswagen
+complete frilled-lizard
+92492.81
+CAR_END
+
+CAR_BEGIN
+volkswagen
+unwieldy warthog
+94595.51
+CAR_END
+
+CAR_BEGIN
+renault
+ripe slow-worm
+38517.45
+CAR_END
+
+CAR_BEGIN
+aston-martin
+flustered lemming
+84261.94
+CAR_END
+
+CAR_BEGIN
+dacia
+pushy collared-peccary
+68326.30
+CAR_END
+
+CAR_BEGIN
+rolls-royce
+wet pelican
+14074.1
+CAR_END
+
+CAR_BEGIN
+hyundai
+alarmed giraffe
+53779.42
+CAR_END
+
+CAR_BEGIN
+skoda
+profuse king-penguin
+48402.71
+CAR_END
+
+CAR_BEGIN
+land-rover
+glamorous kiwi
+66176.85
+CAR_END
+
+CAR_BEGIN
+skoda
+ringed oyster
+39323.32
+CAR_END
+
+CAR_BEGIN
+volvo
+acclaimed binturong
+92390.57
+CAR_END
+
+CAR_BEGIN
+maserati
+classic hammerhead-shark
+26632.47
+CAR_END
+
+CAR_BEGIN
+renault
+rough sumatran-orang-utan
+81864.7
+CAR_END
+
+CAR_BEGIN
+lotus
+unfit fishing-cat
+35561.42
+CAR_END
+
+CAR_BEGIN
+ferrari
+courageous bongo
+22110.55
+CAR_END
+
+CAR_BEGIN
+kia
+costly chamois
+72207.86
+CAR_END
+
+CAR_BEGIN
+peugeot
+taut zonkey
+22294.95
+CAR_END
+
+CAR_BEGIN
+honda
+lined sea-lion
+58459.79
+CAR_END
+
+CAR_BEGIN
+aston-martin
+electric shih-tzu
+91513.6
+CAR_END
+
+CAR_BEGIN
+citroen
+forceful yorkshire-terrier
+32488.56
+CAR_END
+
+CAR_BEGIN
+peugeot
+dreary bernese-mountain-dog
+67006.66
+CAR_END
+
+CAR_BEGIN
+toyota
+comfortable snail
+31105.91
+CAR_END
+
+CAR_BEGIN
+land-rover
+daring patas-monkey
+64095.34
+CAR_END
+
+CAR_BEGIN
+tesla
+intent african-penguin
+27565.32
+CAR_END
+
+CAR_BEGIN
+mclaren
+fumbling malayan-tiger
+10649.96
+CAR_END
+
+CAR_BEGIN
+kia
+parched long-eared-owl
+18852.72
+CAR_END
+
+CAR_BEGIN
+fiat
+dimpled umbrellabird
+32333.60
+CAR_END
+
+CAR_BEGIN
+dacia
+mild asiatic-black-bear
+50195.9
+CAR_END
+
+CAR_BEGIN
+dacia
+victorious cow
+80327.78
+CAR_END
+
+CAR_BEGIN
+volvo
+new flat-coat-retriever
+70193.98
+CAR_END
+
+CAR_BEGIN
+toyota
+crazy falcon
+90058.14
+CAR_END
+
+CAR_BEGIN
+ds
+trivial angelfish
+2022.97
+CAR_END
+
+CAR_BEGIN
+bentley
+glaring dodo
+23286.22
+CAR_END
+
+CAR_BEGIN
+honda
+stylish basking-shark
+6059.75
+CAR_END
+
+CAR_BEGIN
+ferrari
+accurate green-bee-eater
+2480.76
+CAR_END
+
+CAR_BEGIN
+peugeot
+revolving grey-seal
+72469.69
+CAR_END
+
+CAR_BEGIN
+bmw
+fixed oyster
+11477.2
+CAR_END
+
+CAR_BEGIN
+renault
+usable scorpion
+82061.30
+CAR_END
+
+CAR_BEGIN
+jaguar
+familiar kangaroo
+44267.10
+CAR_END
+
+CAR_BEGIN
+infiniti
+humming lizard
+6823.51
+CAR_END
+
+CAR_BEGIN
+mini
+wretched stellers-sea-cow
+11105.61
+CAR_END
+
+CAR_BEGIN
+jaguar
+nutritious cow
+76160.40
+CAR_END
+
+CAR_BEGIN
+ferrari
+noteworthy tetra
+19876.50
+CAR_END
+
+CAR_BEGIN
+skoda
+crafty pink-fairy-armadillo
+94396.48
+CAR_END
+
+CAR_BEGIN
+land-rover
+brief howler-monkey
+79106.79
+CAR_END
+
+CAR_BEGIN
+nissan
+vital bactrian-camel
+11659.31
+CAR_END
+
+CAR_BEGIN
+seat
+next cuscus
+12610.90
+CAR_END
+
+CAR_BEGIN
+bmw
+chilly tuatara
+29040.42
+CAR_END
+
+CAR_BEGIN
+mini
+lustrous starfish
+44466.99
+CAR_END
+
+CAR_BEGIN
+jeep
+peppery basking-shark
+40129.8
+CAR_END
+
+CAR_BEGIN
+mg
+spanish mule
+25743.60
+CAR_END
+

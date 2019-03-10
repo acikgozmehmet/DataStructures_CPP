@@ -1,0 +1,54 @@
+COURSE      MATH111     Fundamentals_of_Mathematics
+
+COURSE      MATH115     Elementary_Algebra
+PREREQ      MATH111
+
+COURSE      MATH116     Intermediate_Algebra
+PREREQ      MATH115
+
+COURSE      MATH173     Precalculus
+PREREQ      MATH116
+
+COURSE      MATH241     Calculus_I
+PREREQ      MATH173
+
+COURSE      MATH242     Calculus_II
+PREREQ      MATH241
+
+COURSE      MATH243     Calculus_III
+PREREQ      MATH242
+
+COURSE      MATH254     Differential_Equations
+PREREQ      MATH243
+
+
+COURSE      CS134       Programming_Fundamentals
+
+COURSE      CS200       Concepts_of_Programming_Algorithms_Using_C++
+PREREQ      CS134
+
+COURSE      CS210       Discrete_Structures_I
+PREREQ      MATH171
+
+COURSE      CS211       Discrete_Structures_II
+PREREQ      CS210
+
+COURSE      CS235       Object_Oriented_Programming_Using_C++
+PREREQ      CS200
+
+COURSE      CS250       Basic_Data_Structures_Using_C++
+PREREQ      CS235
+
+
+COURSE      FL165       Elementary_Chinese_I
+
+COURSE      FL166       Elementary_Chinese_II
+PREREQ      FL165
+
+COURSE      FL192       Intermediate_Chinese_I
+PREREQ      FL166
+
+COURSE      FL193       Intermediate_Chinese_II
+PREREQ      FL192
+
+

@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1519165633 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/prereq_finder.cpp
+	<iostream>
+	"UTILITIES/Menu.hpp"
+	"Tester.hpp"
+	"CourseCatalog.hpp"
+
+1519160859 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CourseCatalog.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Course.hpp"
+
+1519158915 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/LinkedList.hpp
+	<iostream>
+	"Node.hpp"
+
+1519159472 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/Course.hpp
+	<string>
+
+1519162115 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CourseCatalog.cpp
+	"CourseCatalog.hpp"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stack>
+	"UTILITIES/Menu.hpp"
+	"EXCEPTIONS/CourseNotFoundException.hpp"
+
+1519158687 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1519159011 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/DATA_STRUCTURES/LinkedList.hpp
+	<iostream>
+	"Node.hpp"
+
+1517883345 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/DATA_STRUCTURES/Node.hpp
+
+1519162115 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/UTILITIES/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1519159899 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/EXCEPTIONS/CourseNotFoundException.hpp
+	<stdexcept>
+
+1519165618 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CUTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"StringUtil.hpp"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"../UTILITIES/Menu.hpp"
+
+1519165594 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CUTEST/TesterBase.hpp
+	<string>
+	<list>
+	<vector>
+	<functional>
+	<fstream>
+
+1505176996 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CUTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<cstdlib>
+	<fstream>
+
+1505176996 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/CUTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1519163925 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/Tester.hpp
+	<iostream>
+	<string>
+	"CUTEST/TesterBase.hpp"
+	"CUTEST/StringUtil.hpp"
+	"DATA_STRUCTURES/Stack.hpp"
+
+1519163629 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks/DATA_STRUCTURES/Stack.hpp
+	"Node.hpp"
+
+1519303747 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/CUTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"StringUtil.hpp"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"../UTILITIES/Menu.hpp"
+
+1519165594 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/CUTEST/TesterBase.hpp
+	<string>
+	<list>
+	<vector>
+	<functional>
+	<fstream>
+
+1519303754 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/CUTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1519303759 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/UTILITIES/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1519303741 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/prereq_finder.cpp
+	<iostream>
+	"UTILITIES/Menu.hpp"
+	"Tester.hpp"
+	"CourseCatalog.hpp"
+
+1519303791 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/Tester.hpp
+	<iostream>
+	<string>
+	"CUTEST/TesterBase.hpp"
+	"CUTEST/StringUtil.hpp"
+	"DATA_STRUCTURES/Stack.hpp"
+
+1519303551 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/DATA_STRUCTURES/Stack.hpp
+	"Node.hpp"
+
+1517883345 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/DATA_STRUCTURES/Node.hpp
+
+1519305277 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/CourseCatalog.hpp
+	<iostream>
+	<fstream>
+	"Course.hpp"
+	"DATA_STRUCTURES/LinkedList.hpp"
+
+1519303779 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/Course.hpp
+	<string>
+
+1519305285 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/CourseCatalog.cpp
+	"CourseCatalog.hpp"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stack>
+	"UTILITIES/Menu.hpp"
+	"EXCEPTIONS/CourseNotFoundException.hpp"
+
+1519303725 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/EXCEPTIONS/CourseNotFoundException.hpp
+	<stdexcept>
+
+1519159011 /home/rayechell/TEACHING/cs250/cs-250-private-files/Projects 2018-01/Project 2 - Stacks/Project2-Stacks student/DATA_STRUCTURES/LinkedList.hpp
+	<iostream>
+	"Node.hpp"
+

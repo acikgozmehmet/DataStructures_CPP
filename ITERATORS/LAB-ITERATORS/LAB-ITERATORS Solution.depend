@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1523219594 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ITERATORS/LAB-ITERATORS Solution/main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	"Menu.hpp"
+
+1522873437 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ITERATORS/LAB-ITERATORS Solution/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1523550633 source:c:\users\macik\desktop\cs250\labs\iterators\lab-iterators\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	"Menu.hpp"
+
+1522877036 c:\users\macik\desktop\cs250\labs\iterators\lab-iterators\menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+

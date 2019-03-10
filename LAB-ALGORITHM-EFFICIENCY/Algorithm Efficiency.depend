@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1480468988 source:/home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Timer.hpp"
+	"Algorithms/SinglyLinkedList.hpp"
+	"Algorithms/DoublyLinkedList.hpp"
+	"Algorithms/BinaryTree.hpp"
+	"Algorithms/StupidArray.hpp"
+	"Algorithms/Dictionary.hpp"
+
+1476910803 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Timer.hpp
+	<chrono>
+
+1480466858 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Algorithms/SinglyLinkedList.hpp
+	<iostream>
+
+1480467294 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Algorithms/DoublyLinkedList.hpp
+	<stdexcept>
+
+1478636478 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Algorithms/BinaryTree.hpp
+	<iostream>
+
+1480467888 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Algorithms/StupidArray.hpp
+
+1478637945 /home/rejcx/TEACHING/CS 250 FILES/CS250-Data-Structures/Resources/Example Code/Algorithm Efficiency/Algorithms/Dictionary.hpp
+	<string>
+	<iostream>
+
+1519747097 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ALGORITHM-EFFICIENCY/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"Timer.hpp"
+	"Menu.hpp"
+	"Searcher.hpp"
+
+1519703352 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ALGORITHM-EFFICIENCY/Timer.hpp
+	<chrono>
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ALGORITHM-EFFICIENCY/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1519747168 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-ALGORITHM-EFFICIENCY/Searcher.hpp
+	"Timer.hpp"
+
+1519749996 source:c:\users\macik\desktop\cs250\labs\lab-algorithm-efficiency\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"Timer.hpp"
+	"Menu.hpp"
+	"Searcher.hpp"
+
+1519762885 c:\users\macik\desktop\cs250\labs\lab-algorithm-efficiency\timer.hpp
+	<chrono>
+
+1519701898 c:\users\macik\desktop\cs250\labs\lab-algorithm-efficiency\menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1519964137 c:\users\macik\desktop\cs250\labs\lab-algorithm-efficiency\searcher.hpp
+	"Timer.hpp"
+	<vector>
+	<cmath>
+

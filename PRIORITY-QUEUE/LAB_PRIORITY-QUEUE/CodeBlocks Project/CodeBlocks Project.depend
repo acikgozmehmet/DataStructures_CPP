@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1521505404 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+
+1521500350 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Job.hpp
+	<iostream>
+	<vector>
+	"Queue.hpp"
+
+1521510581 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Queue.hpp
+	"LinkedList.hpp"
+
+1521491893 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LinkedList.hpp
+	<iostream>
+
+1521506111 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"Queue.hpp"
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1521584409 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+	"HomeworkGenerator.hpp"
+
+1521666862 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/Job.hpp
+	<iostream>
+	<vector>
+
+1521667093 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/Processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"PriorityQueue.hpp"
+
+1521666815 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/PriorityQueue.hpp
+	<iostream>
+	<iomanip>
+	"Menu.hpp"
+	"Job.hpp"
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1521667289 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE SOLUTION/HomeworkGenerator.hpp
+	<string>
+	<iostream>
+	"Job.hpp"
+	<cstdlib>
+	<ctime>
+
+1521584409 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+	"HomeworkGenerator.hpp"
+
+1521666862 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/Job.hpp
+	<iostream>
+	<vector>
+
+1521667093 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/Processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"PriorityQueue.hpp"
+
+1521685577 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/PriorityQueue.hpp
+	<iostream>
+	<iomanip>
+	"Menu.hpp"
+	"Job.hpp"
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1521667289 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-PRIORITY-QUEUE/LAB-PRIORITY-QUEUE/HomeworkGenerator.hpp
+	<string>
+	<iostream>
+	"Job.hpp"
+	<cstdlib>
+	<ctime>
+
+1522177874 source:c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+	"HomeworkGenerator.hpp"
+
+1522177874 c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\job.hpp
+	<iostream>
+	<vector>
+
+1522177874 c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"PriorityQueue.hpp"
+
+1522182616 c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\priorityqueue.hpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Menu.hpp"
+	"Job.hpp"
+
+1522177874 c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1522177874 c:\users\macik\desktop\cs250\labs\pqueue\lab_priority-queue\homeworkgenerator.hpp
+	<string>
+	<iostream>
+	"Job.hpp"
+	<cstdlib>
+	<ctime>
+

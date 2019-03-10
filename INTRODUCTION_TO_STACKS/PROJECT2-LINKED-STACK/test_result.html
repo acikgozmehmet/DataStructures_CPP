@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> cuTEST Test Results </title>
+        <style type='text/css'>
+            body { font-family: sans-serif; font-size: 12pt; }
+            .warning { padding: 20px; background: #ffed24; font-size: 20px; text-align: center; }
+            .result-success { background: #24ff24; font-size: 20px; text-align: center; }
+            .result-failure { background: #ff7095; font-size: 20px; text-align: center; }
+            table { background: #ccccff; width: 100%; border: solid 1px #0000aa; }
+            table tr.pass { background: #ccffcc; }
+            table tr.fail { background: #ffcccc; }
+            table tr             { font-size: 12pt; border: solid 1px #000066; }
+            table tr td          { padding: 10px; border: solid 1px #000033; }
+            table tr td ul li,             table tr td ol li    { margin: 10px 0; }
+            table tr td ol       { list-style-type: upper-latin; }
+            table tr .test-set   {  }
+            table tr .test       { font-size: 14pt; }
+            table tr .prereq     {  }
+            table tr .result     { text-align: center; font-size: 14pt; font-weight: bold; }
+            table tr .expected   { font-family: monospace; font-size: 14pt; }
+            table tr .actual     { font-family: monospace; font-size: 14pt; }
+            table tr .comments   {  }
+            table tr.summary { background: #000000; color: #ffffff; }
+            table tr.descriptions { font-size: 8pt; text-align: center; }
+            table .spacer { height: 100px; }
+        </style>
+    </head>
+    <body>
+    <div class='warning'>Warning: Make sure to check if all tests finish (there will be a message at the end of the file) - <br>
+    It is possible for your program to crash early, but still show that tests have passed because it hasn't gone through everything.</div>
+    <table>
+        <tr>
+            <th class='col_set'> Test set </th>
+            <th class='col_test'> Test </th>
+            <th class='col_prereq'> Prerequisite <br> functions </th>
+            <th class='col_result'> Pass/fail </th>
+            <th class='col_expected'> Expected <br> output </th>
+            <th class='col_actual'> Actual <br> output </th>
+            <th class='col_comments'> Comments </th>
+        </tr>
+<tr class='fail'>
+<td class='test-set'>      Test_Stack       </td>
+<td class='test'>          Create an empty Stack, make sure Size() is 0.       </td>
+<td class='prereq'>   <ul> <li>Size()</li><li>Push()</li><li>Top()</li><li>Pop()</li> </ul> </td>
+<td class='result'>        FAILED       </td>
+<td class='expected'> <ol> <li>Size = 0</li> </ol> </td>
+<td class='actual'>   <ol> <li>Size = -1</li> </ol> </td>
+<td class='comments'> <ul> <li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li> </ul> </td>
+</tr>
+<tr class='fail'>
+<td class='test-set'>      Test_Stack       </td>
+<td class='test'>          Create a Stack. Push 5. Size() should be 1. Top() should be 5.       </td>
+<td class='prereq'>   <ul> <li>Size()</li><li>Push()</li><li>Top()</li><li>Pop()</li> </ul> </td>
+<td class='result'>        FAILED       </td>
+<td class='expected'> <ol> <li>Size = 1</li><li>Top = 5</li> </ol> </td>
+<td class='actual'>   <ol> <li>Size = -1</li><li>Top = -100</li> </ol> </td>
+<td class='comments'> <ul> <li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li><li>Caught exception while getting Top()!</li><li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function, and are incrementing the size during Push().</li> </ul> </td>
+</tr>
+<tr class='fail'>
+<td class='test-set'>      Test_Stack       </td>
+<td class='test'>          Create a Stack. Push 'A' & 'B'. Size() should be 2. Check order.       </td>
+<td class='prereq'>   <ul> <li>Size()</li><li>Push()</li><li>Top()</li><li>Pop()</li> </ul> </td>
+<td class='result'>        FAILED       </td>
+<td class='expected'> <ol> <li>Size = 2</li><li>Top = 66</li><li>2nd = 65</li> </ol> </td>
+<td class='actual'>   <ol> <li>Size = -1</li><li>Top = 32</li><li>2nd = 32</li> </ol> </td>
+<td class='comments'> <ul> <li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li><li>Caught exception while getting Top()!</li><li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function, and are incrementing the size during Push().</li><li>Caught exception while getting Top()!</li><li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li> </ul> </td>
+</tr>
+<tr class='fail'>
+<td class='test-set'>      Test_Stack       </td>
+<td class='test'>          Create a Stack. Push 3 items and Pop. Check Size(). Check Top().       </td>
+<td class='prereq'>   <ul> <li>Size()</li><li>Push()</li><li>Top()</li><li>Pop()</li> </ul> </td>
+<td class='result'>        FAILED       </td>
+<td class='expected'> <ol> <li>Size before Pop = 3</li><li>Size after Pop = 2</li><li>Size after Pop Pop = 1</li> </ol> </td>
+<td class='actual'>   <ol> <li>Size before Pop = -1</li><li>Size after Pop = -1</li><li>Size after Pop Pop = -1</li> </ol> </td>
+<td class='comments'> <ul> <li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li><li>Caught exception while getting Top()!</li><li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function, and are incrementing the size during Push().</li><li>Caught exception while getting Top()!</li><li>Bad Size value. Make sure you're setting the size in the constructor, and have written the Size() function.</li><li>Bad Size value before Pop. Make sure your Push increments the size.</li> </ul> </td>
+</tr>
+<tr class='summary'>
+<td colspan='7' class='summary'>
+<strong>SUMMARY FOR Test_Stack:</strong>
+0 out of 4 tests passed
+</td>
+</tr>
+<tr class='spacer'></tr>
+    </table>
+    <div class='result-failure '>1 testsets ran; 0 testsets passed</div>
+    </body>
+</html>

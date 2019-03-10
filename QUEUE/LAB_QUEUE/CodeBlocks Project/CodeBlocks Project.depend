@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1521505404 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+
+1521500350 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Job.hpp
+	<iostream>
+	<vector>
+	"Queue.hpp"
+
+1521510581 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Queue.hpp
+	"LinkedList.hpp"
+
+1521491893 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LinkedList.hpp
+	<iostream>
+
+1521506111 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"Queue.hpp"
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1521511119 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+
+1521500350 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/Job.hpp
+	<iostream>
+	<vector>
+	"Queue.hpp"
+
+1521512643 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/Queue.hpp
+	"LinkedList.hpp"
+
+1521491893 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/LinkedList.hpp
+	<iostream>
+
+1521512596 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/Processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"Queue.hpp"
+
+1519701899 /home/rayechell/TEACHING/cs250/cs-250-private-files/LABS/Labs 2018-01/LAB-QUEUE/LAB-QUEUE/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
+1521514718 source:c:\users\macik\desktop\cs250\labs\queue\lab_queue\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	"Job.hpp"
+	"Processor.hpp"
+	"Menu.hpp"
+
+1521503950 c:\users\macik\desktop\cs250\labs\queue\lab_queue\job.hpp
+	<iostream>
+	<vector>
+	"Queue.hpp"
+
+1521578462 c:\users\macik\desktop\cs250\labs\queue\lab_queue\queue.hpp
+	"LinkedList.hpp"
+
+1521495492 c:\users\macik\desktop\cs250\labs\queue\lab_queue\linkedlist.hpp
+	<iostream>
+
+1521608788 c:\users\macik\desktop\cs250\labs\queue\lab_queue\processor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Job.hpp"
+	"Queue.hpp"
+
+1519705498 c:\users\macik\desktop\cs250\labs\queue\lab_queue\menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+
