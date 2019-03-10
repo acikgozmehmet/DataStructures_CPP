@@ -11,7 +11,7 @@ are stored. Topics also include recursion, templates, fundamental
 algorithm analysis, searching, sorting, hashing, object-oriented
 concepts and large program organization.
 
- * Class intro, The Standard Template Library, Source Control
+ * The Standard Template Library
  * Recursion, Debugging Tools, Unit Tests
  * Wrapping Arrays
  * Linked LIsts
@@ -20,7 +20,7 @@ concepts and large program organization.
  * Algorithm Efficiency, Searching & Sorting Algorithms
  * Sorted Lists, Queues
  * Trees
- * Iterators, Trees (continued)
+ * Iterators, Trees 
  * Heaps
  * Dictionaries
  * Balanced Search Trees, Graphs, Review
